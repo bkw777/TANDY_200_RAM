@@ -34,8 +34,7 @@ BOM from [DigiKey](https://www.digikey.com/short/f5hhwt4j),  or  [TANDY_200_RAM.
 
 PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)  
 BOM from [DigiKey](),  or  [BOM.csv]()  
--->
-<!--
+
 ## Single-Bank THT DIP
 
 ![](TANDY_200_RAM_tht.jpg)  
