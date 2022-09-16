@@ -12,17 +12,19 @@ Some variants are dual-bank, where one board supplies both Option RAM bank #1 an
 Some variants use different chip packages, so that you have options to use whatever types of chip you have, or can get, or can solder by hand.
 
 There is also a [schematic of the original RAM bank](TANDY_26-3866.svg), re-drawn in KiCAD just for reference. There is no PCB for this, it's just for reference while designing new replacement modules to help ensure the replacement really still outwardly works the same as the original.
+-->
 
-## Single-Bank SMT SOP
+## Single-Bank
 
 ![](TANDY_200_RAM.jpg)  
 ![](TANDY_200_RAM_top.jpg)  
 ![](TANDY_200_RAM_bottom.jpg)  
 ![](TANDY_200_RAM.svg)  
 
-PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest) for any other manufacturer  
-BOM from [DigiKey](),  or  [BOM.csv]() for reference to source the parts elsewhere  
+PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)  
+BOM from [DigiKey](https://www.digikey.com/short/f5hhwt4j),  or  [TANDY_200_RAM.BOM.csv](TANDY_200_RAM.BOM.csv)  
 
+<!--
 ## Single-Bank SMT TSOP
 
 ![](TANDY_200_RAM_tsop.jpg)  
@@ -30,8 +32,8 @@ BOM from [DigiKey](),  or  [BOM.csv]() for reference to source the parts elsewhe
 ![](TANDY_200_RAM_tsop_bottom.jpg)  
 ![](TANDY_200_RAM_tsop.svg)  
 
-PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest) for any other manufacturer  
-BOM from [DigiKey](),  or  [BOM.csv]() for reference to source the parts elsewhere  
+PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)  
+BOM from [DigiKey](),  or  [BOM.csv]()  
 -->
 <!--
 ## Single-Bank THT DIP
@@ -41,30 +43,30 @@ BOM from [DigiKey](),  or  [BOM.csv]() for reference to source the parts elsewhe
 ![](TANDY_200_RAM_tht_bottom.jpg)  
 ![](TANDY_200_RAM_tht.svg)  
 
-PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest) for any other manufacturer  
-BOM from [DigiKey](),  or  [BOM.csv]() for reference to source the parts elsewhere  
+PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)  
+BOM from [DigiKey](),  or  [BOM.csv]()  
 -->
 
-<!--
-## Dual-Bank SMT SOP
+## Dual-Bank
 
-![](TANDY_200_DUAL_RAM_sop.jpg)  
-![](TANDY_200_DUAL_RAM_sop_top.jpg)  
-![](TANDY_200_DUAL_RAM_sop_bottom.jpg)  
-![](TANDY_200_DUAL_RAM_sop.svg)  
+![](TANDY_200_Dual_RAM.jpg)  
+![](TANDY_200_Dual_RAM_top.jpg)  
+![](TANDY_200_Dual_RAM_bottom.jpg)  
+![](TANDY_200_Dual_RAM.svg)  
 
-PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest) for any other manufacturer  
-BOM from [DigiKey](),  or  [BOM.csv]() for reference to source the parts elsewhere  
+<!--PCB from [OSHPark](),  or  [PCBWAY](),  or  -->[gerbers](../../releases/latest)  
+BOM from [DigiKey](https://www.digikey.com/short/25v45c90),  or  [TANDY_200_Dual_RAM.BOM.csv](TANDY_200_Dual_RAM.BOM.csv)  
 
-## Dual-Bank SMT TSOP
+## Dual-Bank - TSOP
 
-![](TANDY_200_DUAL_RAM_tsop.jpg)  
-![](TANDY_200_DUAL_RAM_tsop.jpg)  
+![](TANDY_200_DUAL_RAM_tsop_14mm.jpg)  
+![](TANDY_200_DUAL_RAM_tsop_20mm.jpg)  
+![](TANDY_200_DUAL_RAM_tsop_top.jpg)  
 ![](TANDY_200_DUAL_RAM_tsop_bottom.jpg)  
 ![](TANDY_200_DUAL_RAM_tsop.svg)  
 
-PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest) for any other manufacturer  
-BOM from [DigiKey](),  or  [BOM.csv]() for reference to source the parts elsewhere  
+<!-- PCB from [OSHPark](),  or  [PCBWAY](),  or  -->[gerbers](../../releases/latest)  
+BOM from [DigiKey](https://www.digikey.com/short/bvrwht5d),  or  [TANDY_200_Dual_RAM_tsop.BOM.csv](TANDY_200_Dual_RAM_tsop.BOM.csv)  
 -->
 
 <!--
@@ -75,8 +77,8 @@ BOM from [DigiKey](),  or  [BOM.csv]() for reference to source the parts elsewhe
 ![](TANDY_200_DUAL_RAM_tht_bottom.jpg)  
 ![](TANDY_200_DUAL_RAM_tht.svg)  
 
-PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest) for any other manufacturer  
-BOM from [DigiKey](),  or  [BOM.csv]() for reference to source the parts elsewhere  
+PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)  
+BOM from [DigiKey](),  or  [BOM.csv]()  
 -->
 
 ## Schematic of original TANDY 26-3866 24K Option RAM  
