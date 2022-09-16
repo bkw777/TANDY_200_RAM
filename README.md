@@ -21,7 +21,7 @@ There is also a [schematic of the original RAM bank](TANDY_26-3866.svg), re-draw
 ![](TANDY_200_RAM_bottom.jpg)  
 ![](TANDY_200_RAM.svg)  
 
-PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)  
+<!-- PCB from [OSHPark](),  or  [PCBWAY](),  or  -->[gerbers](../../releases/latest)  
 BOM from [DigiKey](https://www.digikey.com/short/f5hhwt4j),  or  [TANDY_200_RAM.BOM.csv](TANDY_200_RAM.BOM.csv)  
 
 <!--
@@ -54,7 +54,7 @@ BOM from [DigiKey](),  or  [BOM.csv]()
 ![](TANDY_200_Dual_RAM_bottom.jpg)  
 ![](TANDY_200_Dual_RAM.svg)  
 
-<!--PCB from [OSHPark](),  or  [PCBWAY](),  or  -->[gerbers](../../releases/latest)  
+<!-- PCB from [OSHPark](),  or  [PCBWAY](),  or  -->[gerbers](../../releases/latest)  
 BOM from [DigiKey](https://www.digikey.com/short/25v45c90),  or  [TANDY_200_Dual_RAM.BOM.csv](TANDY_200_Dual_RAM.BOM.csv)  
 
 ## Dual-Bank - TSOP
