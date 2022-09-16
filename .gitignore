@@ -15,6 +15,7 @@ _autosave-*
 fp-info-cache
 *-cache.lib
 *-backups
+*.kicad_prl
 
 # Netlist files (exported from Eeschema)
 *.net
