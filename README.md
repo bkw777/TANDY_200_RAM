@@ -81,11 +81,14 @@ PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)
 BOM from [DigiKey](),  or  [BOM.csv]()  
 -->
 
-## Schematic of original TANDY 26-3866 24K Option RAM  
-Re-drawn in KiCAD from the info in the service manual, just for reference.  
-This is also the same as the internal 24K bank, without the ceramic DIP carrier module.
+## Original TANDY 26-3866 24K Option RAM for reference  
+Re-drawn in KiCAD from the info in the service manual.  
+This is what any alternative must replicate or emulate.  
+The internal 24K bank is also the same (without the ceramic DIP carrier module).
 
 ![](../../raw/main/TANDY_26-3866.svg)
+![](TANDY_26-3866_top.jpg)
+![](TANDY_26-3866_bottom.jpg)
 
 <!--
 ## Notes  
