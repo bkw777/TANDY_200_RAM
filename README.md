@@ -21,7 +21,7 @@ See the releases tab for gerber zips for manufacturing.
 ![](TANDY_200_RAM.jpg)  
 ![](TANDY_200_RAM_top.jpg)  
 ![](TANDY_200_RAM_bottom.jpg)  
-![](TANDY_200_RAM.svg)  
+![](../../raw/main/TANDY_200_RAM.svg)  
 
 <!-- PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest/)  -->
 BOM from [DigiKey](https://www.digikey.com/short/f5hhwt4j),  or  [TANDY_200_RAM.BOM.csv](TANDY_200_RAM.BOM.csv)  
@@ -32,7 +32,7 @@ BOM from [DigiKey](https://www.digikey.com/short/f5hhwt4j),  or  [TANDY_200_RAM.
 ![](TANDY_200_RAM_tsop.jpg)  
 ![](TANDY_200_RAM_tsop_top.jpg)  
 ![](TANDY_200_RAM_tsop_bottom.jpg)  
-![](TANDY_200_RAM_tsop.svg)  
+![](../../raw/main/TANDY_200_RAM_tsop.svg)  
 
 PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)  
 BOM from [DigiKey](),  or  [BOM.csv]()  
@@ -42,7 +42,7 @@ BOM from [DigiKey](),  or  [BOM.csv]()
 ![](TANDY_200_RAM_tht.jpg)  
 ![](TANDY_200_RAM_tht_top.jpg)  
 ![](TANDY_200_RAM_tht_bottom.jpg)  
-![](TANDY_200_RAM_tht.svg)  
+![](../../raw/main/TANDY_200_RAM_tht.svg)  
 
 PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)  
 BOM from [DigiKey](),  or  [BOM.csv]()  
@@ -53,7 +53,7 @@ BOM from [DigiKey](),  or  [BOM.csv]()
 ![](TANDY_200_Dual_RAM.jpg)  
 ![](TANDY_200_Dual_RAM_top.jpg)  
 ![](TANDY_200_Dual_RAM_bottom.jpg)  
-![](TANDY_200_Dual_RAM.svg)  
+![](../../raw/main/TANDY_200_Dual_RAM.svg)  
 
 <!-- PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest/)  -->  
 BOM from [DigiKey](https://www.digikey.com/short/25v45c90),  or  [TANDY_200_Dual_RAM.BOM.csv](TANDY_200_Dual_RAM.BOM.csv)  
@@ -64,7 +64,7 @@ BOM from [DigiKey](https://www.digikey.com/short/25v45c90),  or  [TANDY_200_Dual
 ![](TANDY_200_Dual_RAM_tsop_20mm.jpg)  
 ![](TANDY_200_Dual_RAM_tsop_top.jpg)  
 ![](TANDY_200_Dual_RAM_tsop_bottom.jpg)  
-![](TANDY_200_Dual_RAM_tsop.svg)  
+![](../../raw/main/TANDY_200_Dual_RAM_tsop.svg)  
 
 <!-- PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest) -->  
 BOM from [DigiKey](https://www.digikey.com/short/bvrwht5d),  or  [TANDY_200_Dual_RAM_tsop.BOM.csv](TANDY_200_Dual_RAM_tsop.BOM.csv)  
@@ -75,7 +75,7 @@ BOM from [DigiKey](https://www.digikey.com/short/bvrwht5d),  or  [TANDY_200_Dual
 ![](TANDY_200_Dual_RAM_tht.jpg)  
 ![](TANDY_200_Dual_RAM_tht_top.jpg)  
 ![](TANDY_200_Dual_RAM_tht_bottom.jpg)  
-![](TANDY_200_Dual_RAM_tht.svg)  
+![](../../raw/main/TANDY_200_Dual_RAM_tht.svg)  
 
 PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)  
 BOM from [DigiKey](),  or  [BOM.csv]()  
@@ -85,7 +85,7 @@ BOM from [DigiKey](),  or  [BOM.csv]()
 Re-drawn in KiCAD from the info in the service manual, just for reference.  
 This is also the same as the internal 24K bank, without the ceramic DIP carrier module.
 
-![](TANDY_26-3866.svg)
+![](../../raw/main/TANDY_26-3866.svg)
 
 <!--
 ## Notes  
