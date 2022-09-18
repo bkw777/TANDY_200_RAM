@@ -21,7 +21,7 @@ There is also a [schematic of the original RAM bank](TANDY_26-3866.svg), re-draw
 -->
 
 See the [releases](../../releases) tab for gerber zips for manufacturing.  
-There are no direct OSHPark or PCBWAY for these yet as I am still waiting for the first set to arrive for testing to prove if this design is actually good or not.
+There are no direct "order from OSHPark" or PCBWAY links for these yet because they are not yet verified.
 
 ## Single-Bank
 
