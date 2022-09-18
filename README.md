@@ -14,7 +14,7 @@ Some variants use different chip packages, so that you have options to use whate
 There is also a [schematic of the original RAM bank](TANDY_26-3866.svg), re-drawn in KiCAD just for reference. There is no PCB for this, it's just for reference while designing new replacement modules to help ensure the replacement really still outwardly works the same as the original.
 -->
 
-See the releases tab for gerber zips for manufacturing.
+See the [releases](../../releases) tab for gerber zips for manufacturing.
 
 ## Single-Bank
 
