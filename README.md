@@ -36,9 +36,9 @@ BOM from [DigiKey](https://www.digikey.com/short/f5hhwt4j),  or  [TANDY_200_RAM.
 <!--
 ## Single-Bank SMT TSOP
 
-![](TANDY_200_RAM_tsop.jpg)  
-![](TANDY_200_RAM_tsop_top.jpg)  
-![](TANDY_200_RAM_tsop_bottom.jpg)  
+![](../../raw/main/TANDY_200_RAM_tsop.jpg)  
+![](../../raw/main/TANDY_200_RAM_tsop_top.jpg)  
+![](../../raw/main/TANDY_200_RAM_tsop_bottom.jpg)  
 ![](../../raw/main/TANDY_200_RAM_tsop.svg)  
 
 PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)  
@@ -46,9 +46,9 @@ BOM from [DigiKey](),  or  [BOM.csv]()
 
 ## Single-Bank THT DIP
 
-![](TANDY_200_RAM_tht.jpg)  
-![](TANDY_200_RAM_tht_top.jpg)  
-![](TANDY_200_RAM_tht_bottom.jpg)  
+![](../../raw/main/TANDY_200_RAM_tht.jpg)  
+![](../../raw/main/TANDY_200_RAM_tht_top.jpg)  
+![](../../raw/main/TANDY_200_RAM_tht_bottom.jpg)  
 ![](../../raw/main/TANDY_200_RAM_tht.svg)  
 
 PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)  
@@ -57,9 +57,9 @@ BOM from [DigiKey](),  or  [BOM.csv]()
 
 ## Dual-Bank
 
-![](TANDY_200_Dual_RAM.jpg)  
-![](TANDY_200_Dual_RAM_top.jpg)  
-![](TANDY_200_Dual_RAM_bottom.jpg)  
+![](../../raw/main/TANDY_200_Dual_RAM.jpg)  
+![](../../raw/main/TANDY_200_Dual_RAM_top.jpg)  
+![](../../raw/main/TANDY_200_Dual_RAM_bottom.jpg)  
 ![](../../raw/main/TANDY_200_Dual_RAM.svg)  
 
 <!-- PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest/)  -->  
@@ -67,10 +67,10 @@ BOM from [DigiKey](https://www.digikey.com/short/25v45c90),  or  [TANDY_200_Dual
 
 ## Dual-Bank - TSOP
 
-![](TANDY_200_Dual_RAM_tsop_14mm.jpg)  
-![](TANDY_200_Dual_RAM_tsop_20mm.jpg)  
-![](TANDY_200_Dual_RAM_tsop_top.jpg)  
-![](TANDY_200_Dual_RAM_tsop_bottom.jpg)  
+![](../../raw/main/TANDY_200_Dual_RAM_tsop_14mm.jpg)  
+![](../../raw/main/TANDY_200_Dual_RAM_tsop_20mm.jpg)  
+![](../../raw/main/TANDY_200_Dual_RAM_tsop_top.jpg)  
+![](../../raw/main/TANDY_200_Dual_RAM_tsop_bottom.jpg)  
 ![](../../raw/main/TANDY_200_Dual_RAM_tsop.svg)  
 
 <!-- PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest) -->  
@@ -79,9 +79,9 @@ BOM from [DigiKey](https://www.digikey.com/short/bvrwht5d),  or  [TANDY_200_Dual
 <!--
 ## Dual-Bank THT DIP
 
-![](TANDY_200_Dual_RAM_tht.jpg)  
-![](TANDY_200_Dual_RAM_tht_top.jpg)  
-![](TANDY_200_Dual_RAM_tht_bottom.jpg)  
+![](../../raw/main/TANDY_200_Dual_RAM_tht.jpg)  
+![](../../raw/main/TANDY_200_Dual_RAM_tht_top.jpg)  
+![](../../raw/main/TANDY_200_Dual_RAM_tht_bottom.jpg)  
 ![](../../raw/main/TANDY_200_Dual_RAM_tht.svg)  
 
 PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)  
@@ -94,8 +94,8 @@ This is what any alternative must replicate or emulate.
 The internal 24K bank is also the same (without the ceramic DIP carrier module).
 
 ![](../../raw/main/TANDY_26-3866.svg)
-![](TANDY_26-3866_top.jpg)
-![](TANDY_26-3866_bottom.jpg)
+![](../../raw/main/TANDY_26-3866_top.jpg)
+![](../../raw/main/TANDY_26-3866_bottom.jpg)
 
 <!--
 ## Notes  
