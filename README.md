@@ -2,6 +2,12 @@
 
 Replacements for TANDY 26-3866 24K SRAM module for TANDY 200 portable computer.
 
+There are a few different options here. You pick whichever you need.  
+* Single-bank with an SOP-28 chip - Drop-in replacement for the original 24K module, with a larger chip that's easier to solder by hand. Use this if you already have one original ceramic module, and want to keep using it, and just want one more 24K module to fill the machine, and you prefer to use, or happen to already have an SOIC-28/SOP-28 version of the SRAM chip.
+* ~Single-bank with a TSOP chip - Still TODO~
+* Dual-bank with an SOP-32 chip - This provides the full 48 as 2 normal 24K modules all on one board. You plug a single one of these into OPTION RAM#2 slot. Uses an SOIC-32/SOP-32 chip for easier hand soldering.
+* Dual-bank with a TSOP chip - Same as above but takes a TSOP-32 version of the SRAM chip. These are more common and more available, but also more of a challenge to solder by hand.
+
 <!--
 There are a few different designs available that all do the same thing but using different parts.
 
@@ -14,7 +20,8 @@ Some variants use different chip packages, so that you have options to use whate
 There is also a [schematic of the original RAM bank](TANDY_26-3866.svg), re-drawn in KiCAD just for reference. There is no PCB for this, it's just for reference while designing new replacement modules to help ensure the replacement really still outwardly works the same as the original.
 -->
 
-See the [releases](../../releases) tab for gerber zips for manufacturing.
+See the [releases](../../releases) tab for gerber zips for manufacturing.  
+There are no direct OSHPark or PCBWAY for these yet as I am still waiting for the first set to arrive for testing to prove if this design is actually good or not.
 
 ## Single-Bank
 
