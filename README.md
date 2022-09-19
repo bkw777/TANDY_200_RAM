@@ -25,9 +25,9 @@ There are no direct "order from OSHPark" or PCBWAY links for these yet because t
 
 ## Single-Bank
 
-![](TANDY_200_RAM.jpg)  
-![](TANDY_200_RAM_top.jpg)  
-![](TANDY_200_RAM_bottom.jpg)  
+![](../../raw/main/TANDY_200_RAM.jpg)  
+![](../../raw/main/TANDY_200_RAM_top.jpg)  
+![](../../raw/main/TANDY_200_RAM_bottom.jpg)  
 ![](../../raw/main/TANDY_200_RAM.svg)  
 
 <!-- PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest/)  -->
