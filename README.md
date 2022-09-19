@@ -3,10 +3,10 @@
 Replacements for TANDY 26-3866 24K SRAM module for TANDY 200 portable computer.
 
 There are a few different options here. You pick whichever you need.  
-* Single-bank with an SOP-28 chip - Drop-in replacement for the original 24K module, with a large-ish chip that's relatively easy to solder by hand. Use this if you already have one original ceramic module, and want to keep using it, and just want one more 24K module to fill the machine, and you prefer to use, or happen to already have an SOIC-28/SOP-28 version of the SRAM chip.
-* ~Single-bank with a TSOP chip - Still TODO~
-* Dual-bank with an SOP-32 chip - This provides the full 48 as 2 normal 24K modules all on one board. You plug a single one of these into OPTION RAM#2 slot. Uses an SOIC-32/SOP-32 chip for easier hand soldering.
-* Dual-bank with a TSOP chip - Same as above but takes a TSOP-32 version of the SRAM chip. These are more common and more available, but also more of a challenge to solder by hand.
+* Single-bank, SOP-28 chip - Drop-in replacement for the original 24K module, with a large-ish chip that's relatively easy to solder by hand. Use this if you already have one original ceramic module, and want to keep using it, and just want one more 24K module to fill the machine, and you prefer to use, or happen to already have an SOIC-28/SOP-28 version of the SRAM chip.
+* Single-bank, TSOP-28 chip - Same as above but uses a TSOP version of the SRAM chip.
+* Dual-bank, SOP-32 chip - This provides the full 48 as 2 normal 24K modules all on one board. You plug a single one of these into OPTION RAM#2 slot. Uses an SOIC-32/SOP-32 chip for easier hand soldering.
+* Dual-bank, TSOP-32 chip - Same as above but uses a TSOP version of the SRAM chip. These are more common and more available, but also more of a challenge to solder by hand.
 
 <!--
 There are a few different designs available that all do the same thing but using different parts.
@@ -23,7 +23,7 @@ There is also a [schematic of the original RAM bank](TANDY_26-3866.svg), re-draw
 See the [releases](../../releases) tab for gerber zips for manufacturing.  
 There are no direct "order from OSHPark" or PCBWAY links for these yet because they are not yet verified.
 
-## Single-Bank
+## Single-Bank - SOP
 
 ![](../../raw/main/TANDY_200_RAM.jpg)  
 ![](../../raw/main/TANDY_200_RAM_top.jpg)  
@@ -33,7 +33,7 @@ There are no direct "order from OSHPark" or PCBWAY links for these yet because t
 <!-- PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest/)  -->
 BOM from [DigiKey](https://www.digikey.com/short/f5hhwt4j),  or  [TANDY_200_RAM.BOM.csv](TANDY_200_RAM.BOM.csv)  
 
-## Single-Bank, tsop
+## Single-Bank - TSOP
 
 ![](../../raw/main/TANDY_200_RAM_tsop.jpg)  
 ![](../../raw/main/TANDY_200_RAM_tsop_top.jpg)  
@@ -58,7 +58,7 @@ PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)
 BOM from [DigiKey](),  or  [BOM.csv]()  
 -->
 
-## Dual-Bank
+## Dual-Bank - SOP
 
 ![](../../raw/main/TANDY_200_Dual_RAM.jpg)  
 ![](../../raw/main/TANDY_200_Dual_RAM_top.jpg)  
