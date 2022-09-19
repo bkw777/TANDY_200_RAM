@@ -33,17 +33,20 @@ There are no direct "order from OSHPark" or PCBWAY links for these yet because t
 <!-- PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest/)  -->
 BOM from [DigiKey](https://www.digikey.com/short/f5hhwt4j),  or  [TANDY_200_RAM.BOM.csv](TANDY_200_RAM.BOM.csv)  
 
-<!--
 ## Single-Bank SMT TSOP
 
 ![](../../raw/main/TANDY_200_RAM_tsop.jpg)  
 ![](../../raw/main/TANDY_200_RAM_tsop_top.jpg)  
 ![](../../raw/main/TANDY_200_RAM_tsop_bottom.jpg)  
-![](../../raw/main/TANDY_200_RAM_tsop.svg)  
 
+<!-- ![](../../raw/main/TANDY_200_RAM_tsop.svg)   -->
+
+<!--
 PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest)  
 BOM from [DigiKey](),  or  [BOM.csv]()  
+-->
 
+<!--
 ## Single-Bank THT DIP
 
 ![](../../raw/main/TANDY_200_RAM_tht.jpg)  
