@@ -1,9 +1,9 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-  (symbol "62256_SOP28" (in_bom yes) (on_board yes)
+  (symbol "62256" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -10.16 20.955 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Value" "62256_SOP28" (id 1) (at 1.524 21.336 0)
+    (property "Value" "62256" (id 1) (at 1.524 21.336 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Footprint" "000_LOCAL:SOP-28" (id 2) (at 0 -2.54 0)
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "DIP*W15.24mm*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "62256_SOP28_0_0"
+    (symbol "62256_0_0"
       (pin power_in line (at 0 -20.32 90) (length 2.54) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "14" (effects (font (size 1.27 1.27))))
@@ -31,13 +31,13 @@
         (number "28" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "62256_SOP28_0_1"
+    (symbol "62256_0_1"
       (rectangle (start -10.16 20.32) (end 10.16 -20.32)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "62256_SOP28_1_1"
+    (symbol "62256_1_1"
       (pin input line (at -12.7 -17.78 0) (length 2.54)
         (name "A14" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
