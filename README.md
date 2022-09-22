@@ -70,12 +70,12 @@ BOM from [DigiKey](https://www.digikey.com/short/25v45c90),  or  [TANDY_200_Dual
 
 ## Dual-Bank - TSOP
 
-![](../../raw/main/TANDY_200_Dual_RAM_tsop_14mm.jpg)  
-![](../../raw/main/TANDY_200_Dual_RAM_tsop_20mm.jpg)  
+![](../../raw/main/TANDY_200_Dual_RAM_tsop.jpg)  
 ![](../../raw/main/TANDY_200_Dual_RAM_tsop_top.jpg)  
 ![](../../raw/main/TANDY_200_Dual_RAM_tsop_bottom.jpg)  
 ![](../../raw/main/TANDY_200_Dual_RAM_tsop.svg)  
 
+Supports both 14mm and 20mm tsop-32.
 <!-- PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest) -->  
 BOM from [DigiKey](https://www.digikey.com/short/bvrwht5d),  or  [TANDY_200_Dual_RAM_tsop.BOM.csv](TANDY_200_Dual_RAM_tsop.BOM.csv)  
 
@@ -100,12 +100,11 @@ The internal 24K bank is also the same (without the ceramic DIP carrier module).
 ![](../../raw/main/TANDY_26-3866_top.jpg)
 ![](../../raw/main/TANDY_26-3866_bottom.jpg)
 
-<!--
-## Notes  
+## Misc Notes  
 
-There are a couple of other ways to make [PCB DIP legs](https://gist.github.com/bkw777/52d85d89eeff8445cc667685d05ea94d) properly thin enough so that they don't harm sockets, instead of the relatively expensive machines brass Mill-Max 3121 pins in the BOM.
+The BOM includes Mill-Max 3121 machined brass micro pins, but there are a couple of other ways to make properly thin [PCB DIP legs](https://gist.github.com/bkw777/52d85d89eeff8445cc667685d05ea94d) .
 
-The DIP row spacing is actually 725 mils not 700. This makes it a little bit annoying to solder the legs because the rows don't line up exactly with a breadboard, but it's not an error.  
-Use a set of single row socket headers in the breadboard, or even two sets, stacked to make a taller set. This allows the socket headers to spread apart a little and make it easier to hold the pins and pcb in place for soldering, without having the pins wind up angled inwards as badly.
+The DIP row spacing is actually 725 mils not 700. This makes it a little bit annoying to solder the legs because the rows don't line up exactly with the 100-mil rows in a breadboard, but it's not an error.  
 
--->
+Use a set of single row socket headers in a breadboard, or even stacks of two to make them taller. This allows the rows to spread apart a little and make it easier to hold the pins and pcb in place for soldering.
+
