@@ -79,7 +79,7 @@ BOM from [DigiKey](https://www.digikey.com/short/25v45c90),  or  [TANDY_200_Dual
 
 Supports both TSOP-32 (20mm) and sTSOP-32 (14mm).  
 
-PCB from <!-- [OSHPark](),  or  -->[PCBWAY](https://www.pcbway.com/project/shareproject/TANDY_200_RAM_48K_TSOP_57aa6fd6.html),  or  [gerbers](../../releases/latest) -->  
+PCB from <!-- [OSHPark](),  or  -->[PCBWAY](https://www.pcbway.com/project/shareproject/TANDY_200_RAM_48K_TSOP_57aa6fd6.html),  or  [gerbers](../../releases/latest)  
 BOM from [DigiKey](https://www.digikey.com/short/bvrwht5d),  or  [TANDY_200_Dual_RAM_tsop.BOM.csv](TANDY_200_Dual_RAM_tsop.BOM.csv)  
 
 <!--
