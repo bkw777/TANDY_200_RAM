@@ -21,7 +21,7 @@ There is also a [schematic of the original RAM bank](TANDY_26-3866.svg), re-draw
 -->
 
 See the [releases](../../releases) tab for gerber zips for manufacturing.  
-There are no direct "order from OSHPark" or PCBWAY links for these yet because they are not yet verified.
+If there is no link to order a pcb for one of the versions below, it means that design isn't tested and proven yet.
 
 ## Single-Bank - SOP
 
@@ -76,7 +76,7 @@ BOM from [DigiKey](https://www.digikey.com/short/25v45c90),  or  [TANDY_200_Dual
 ![](../../raw/main/TANDY_200_Dual_RAM_tsop.svg)  
 
 Supports both 14mm and 20mm tsop-32.
-<!-- PCB from [OSHPark](),  or  [PCBWAY](),  or  [gerbers](../../releases/latest) -->  
+PCB from <!-- [OSHPark](),  or  -->[PCBWAY](https://www.pcbway.com/project/shareproject/TANDY_200_RAM_48K_TSOP_57aa6fd6.html),  or  [gerbers](../../releases/latest) -->  
 BOM from [DigiKey](https://www.digikey.com/short/bvrwht5d),  or  [TANDY_200_Dual_RAM_tsop.BOM.csv](TANDY_200_Dual_RAM_tsop.BOM.csv)  
 
 <!--
@@ -104,7 +104,14 @@ The internal 24K bank is also the same (without the ceramic DIP carrier module).
 
 The BOM includes Mill-Max 3121 machined brass micro pins, but there are a couple of other ways to make properly thin [PCB DIP legs](https://gist.github.com/bkw777/52d85d89eeff8445cc667685d05ea94d) .
 
-The DIP row spacing is actually 725 mils not 700. This makes it a little bit annoying to solder the legs because the rows don't line up exactly with the 100-mil rows in a breadboard, but it's not an error.  
+The DIP row spacing is actually 725 mils not 700. This makes it a little bit annoying to solder the legs because the rows don't line up exactly with the 100-mil rows in a breadboard, but the odd spacing is deliberate not an arror.  
 
-Use a set of single row socket headers in a breadboard, or even stacks of two to make them taller. This allows the rows to spread apart a little and make it easier to hold the pins and pcb in place for soldering.
+Suggestion for soldering the pins:  
+Use some generic single-row female pin headers in a breadboard to hold the pins in alignment for soldering.  
+Take 2 rows of 28 pins of single-row female pin headers and insert them into a breadboard 600 mils apart like for a normal 600 mil dip.  
+One row is for holding pins, the other will not line up with the other row of holes, it is just for the pcb to rest on to hold up the other side of the pcb so it's level.  
+Dip the post end of a pin in tacky solder paste, and insert into a hole in the pcb. Let the flux hold the pin in the pcb, don't worry about how loose the fit is and how the pin isn't held perpendicular. Repeat for all 14 pins of ONE row of the pcb.
+Insert the row of pins into one of the female sockets on the breadboard, laying the pcb across the top of the other socket. Solder the pins from the top.  
+Extract the pcb from the socket and repeat for the other row of 14 pins. Finally do the single pin.  
+The pins are very fragile. Be careful not to let them get bent, because they don't bend much before they break, and they bend easily, so just be real careful not to let anything catch on them and be careful when extracting from sockets not to allow the pcb to tip and angle.
 
