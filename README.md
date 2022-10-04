@@ -8,7 +8,7 @@ There are a few different options here. You pick whichever you need.
 * Dual-bank, SOP-32 chip - This provides the full 48 as 2 normal 24K modules all on one board. You plug a single one of these into OPTION RAM#2 slot. Uses an SOIC-32/SOP-32 chip for easier hand soldering.
 * Dual-bank, TSOP-32 chip - Same as above but uses a TSOP version of the SRAM chip. These are more common and more available, but also more of a challenge to solder by hand.
 
-The holes for the pins are intentionally too small to accept common square or round pins, as they are too fat and damage the leaf-style sockets in the 200. The BOMs include a spcific type of pin that is almost as thin as a dpi chip leg. You may also use a SIL leadframe that has flat pins exactly like a DIP chip leg. See this [dip pcb legs guide](https://gist.github.com/bkw777/52d85d89eeff8445cc667685d05ea94d) for more details and links.
+The holes for the pins are intentionally too small to accept common square or round pins, as they are too fat and damage the leaf-style sockets in the 200. The BOMs include a specific pin that is extra thin, almost as thin as a dip chip leg. You may also use a SIL leadframe that has flat pins exactly like a DIP chip leg. See this [dip pcb legs guide](https://gist.github.com/bkw777/52d85d89eeff8445cc667685d05ea94d) for more details and links.
 
 <!--
 There are a few different designs available that all do the same thing but using different parts.
