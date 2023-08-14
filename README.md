@@ -104,6 +104,9 @@ The internal 24K bank is also the same (without the ceramic DIP carrier module).
 ![](../../raw/main/TANDY_26-3866_bottom.jpg)
 
 ## Misc Notes  
+Memory Tester app for TANDY 200  
+https://github.com/LivingM100SIG/Living_M100SIG/blob/main/M100SIG/Lib-10-TANDY200/MEMCHK.200  
+https://github.com/LivingM100SIG/Living_M100SIG/blob/main/M100SIG/Lib-10-TANDY200/MEMCHK.SRC
 
 The BOM includes Mill-Max 3121 machined brass micro pins, but there are a couple of other ways to make properly thin [PCB DIP legs](https://gist.github.com/bkw777/52d85d89eeff8445cc667685d05ea94d) .
 
